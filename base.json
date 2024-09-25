@@ -1,1 +1,1 @@
-{"codigo": 0, "nome": "", "cpf": "", "email": "2", "profissao": "2"}
+[{"Codigo": 0, "Nome": "Admin", "CPF": "000.000.000-00", "E-mail": "admin@admin.com", "Profissao": "Administrador"}, {"codigo": 1, "nome": "Bruno", "cpf": "978.746.981-34", "email": "bruno@bruno.com", "profissao": "DEV"}, {"codigo": 2, "nome": "Dani", "cpf": "012.345.678-90", "email": "dani@dani.com", "profissao": "gerente"}]
